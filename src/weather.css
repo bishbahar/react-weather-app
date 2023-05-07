@@ -23,7 +23,7 @@
     line-height: 19px;
     list-style: none;
 }
-.weather img{
+.weather canvas{
     float: left;
     height: 64px;
     margin-right: 10px;
